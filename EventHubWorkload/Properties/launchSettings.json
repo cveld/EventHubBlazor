@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EventHubWorkload": {
+      "commandName": "Project"
+    },
+    "Debug": {
+      "commandName": "Executable"
+    }
+  }
+}
